@@ -40,19 +40,19 @@
                   <div class="row">
                     <div class="col-md-2">
                       <li class="nav-item">
-                        <a class="nav-link card bg-white" href="Project.html"><b class="text-info">TRANG CHỦ</b></a>
+                        <a class="nav-link card bg-white" href="index.php"><b class="text-info">TRANG CHỦ</b></a>
                       </li>
                     </div>
                     <div class="col-md-2">
                       <li class="nav-item">
-                        <a class="nav-link" href="Gioithieu.html"><b class="text-white">GIỚI THIỆU</b></a>
+                        <a class="nav-link" href="Communications.php"><b class="text-white">GIỚI THIỆU</b></a>
                       </li>
                     </div>
                     <div class="col-md-2">
                       <li class="nav-item dropdown">
                         <a class="nav-link dropdown-toggle text-white" href="#" id="navbarScrollingDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false"><b class="text-white">SẢN PHẨM MỚI</b></a>
                         <ul class="dropdown-menu" aria-labelledby="navbarScrollingDropdown">
-                          <li><a class="dropdown-item" href="Tapdunghoso.html"><h6><b>Tập đựng hồ sơ</b></h6></a></li>
+                          <li><a class="dropdown-item" href="product_details.php"><h6><b>Tập đựng hồ sơ</b></h6></a></li>
                           <li><a class="dropdown-item" href="#"><h6><b>Bấm kim</b></h6></a></li>
                           <li><a class="dropdown-item" href="#"><h6><b>Kệ 4 tần trụ nhựa</b></h6></a></li>
                           <li><a class="dropdown-item" href="#"><h6><b>Thước nhựa</b></h6></a></li>
@@ -62,17 +62,17 @@
                     </div>
                     <div class="col-md-2">
                       <li class="nav-item">
-                        <a class="nav-link" href="Phanphoi.html"><b class="text-white">PHÂN PHỐI</b></a>
+                        <a class="nav-link" href="allotment.php"><b class="text-white">PHÂN PHỐI</b></a>
                       </li>
                     </div>
                     <div class="col-md-2">
                       <li class="nav-item">
-                        <a class="nav-link" href="Nhasach.html"><b class="text-white">NHÀ SÁCH</b></a>
+                        <a class="nav-link" href="bookstore.php"><b class="text-white">NHÀ SÁCH</b></a>
                       </li>
                     </div>
                     <div class="col-md-2">
                       <li class="nav-item">
-                        <a class="nav-link" href="Dangnhap.html"><b class="text-white">ĐĂNG NHẬP</b></a>
+                        <a class="nav-link" href="login.php"><b class="text-white">ĐĂNG NHẬP</b></a>
                       </li>
                     </div>
                   </div>
@@ -83,7 +83,7 @@
         </nav>
       </div>
       <div class="col-md-2 p-3 text-center">
-        <a href="Giohang.html" class="text-white"><i class="fas fa-shopping-cart fs-25"></i></a>
+        <a href="cart.php" class="text-white"><i class="fas fa-shopping-cart fs-25"></i></a>
       </div>
     </div>
   </div>

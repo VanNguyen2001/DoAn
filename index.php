@@ -77,7 +77,7 @@
           <img src="public/image/sanpham01.jpg">
           <div class="text-center">
             <h5>TẬP ĐỰNG HỒ SƠ</h5>
-            <a href="Tapdunghoso.html" class="btn"><h5 class="ctsp card p-2">CHI TIẾT SẢN PHẨM</h5></a>
+            <a href="product_details.php" class="btn"><h5 class="ctsp card p-2">CHI TIẾT SẢN PHẨM</h5></a>
           </div>
         </div>
       </div>
@@ -149,7 +149,7 @@
     </div>
     <div class="row">
       <div class="col-md-12 text-center p-5">
-        <a href="Sanpham.html" class="btn nh22-02 text-white"><h5 class="ctsp">XEM TẤT CẢ</h5></a>
+        <a href="product.php" class="btn nh22-02 text-white"><h5 class="ctsp">XEM TẤT CẢ</h5></a>
       </div>
     </div>
   </div>
@@ -202,7 +202,7 @@
             <img src="public/image/ttimg01.jpg">
           </div>
           <div class="pttt">
-            <a href="Tintuc.html"><i>Ngày Quốc tế Thiếu nhi.</i></a>
+            <a href="news.php"><i>Ngày Quốc tế Thiếu nhi.</i></a>
             <h6>Nhân ngày Quốc tế thiếu nhi 1-6 giảm giá các sản phẩm bút, màu vẽ.</h6>
           </div>
         </div>
